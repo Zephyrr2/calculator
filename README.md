@@ -1,16 +1,37 @@
-# calculator
+# Calculator
 
-A new Flutter project.
+Sebuah aplikasi kalkulator sederhana yang dikembangkan menggunakan Flutter.
 
-## Getting Started
+## Fitur
+- Operasi dasar: penjumlahan, pengurangan, perkalian, dan pembagian
+- Antarmuka sederhana dan mudah digunakan
+- Responsif dan mendukung berbagai ukuran layar
 
-This project is a starting point for a Flutter application.
+## Instalasi
+1. Clone repositori ini:
+   ```sh
+   git clone https://github.com/Zephyrr2/calculator.git
+   ```
+2. Masuk ke direktori proyek:
+   ```sh
+   cd calculator
+   ```
+3. Pastikan Flutter telah terinstal di sistem Anda.
+4. Jalankan perintah berikut untuk menginstal dependensi:
+   ```sh
+   flutter pub get
+   ```
+   ```sh
+   flutter pub pub run flutter_native_splash:create
+   ```
+   kalau tidak bisa pakai yang ini:
+   ```sh
+   dart run flutter_native_splash:create
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Penggunaan
+Jalankan aplikasi dengan perintah berikut:
+```sh
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
