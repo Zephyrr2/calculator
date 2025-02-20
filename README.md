@@ -36,4 +36,4 @@ flutter run
 ```
 
 ## Video
-(https://raw.githubusercontent.com/Zephyrr2/calculator/main/assets/Calculator.mp4)
+https://raw.githubusercontent.com/Zephyrr2/calculator/main/assets/Calculator.mp4
