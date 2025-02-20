@@ -35,5 +35,5 @@ Jalankan aplikasi dengan perintah berikut:
 flutter run
 ```
 
-##Video
-https://github.com/Zephyrr2/calculator/blob/main/assets/Calculator.mp4
+## Video
+(https://raw.githubusercontent.com/Zephyrr2/calculator/main/assets/Calculator.mp4)
