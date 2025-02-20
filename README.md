@@ -33,5 +33,7 @@ Sebuah aplikasi kalkulator sederhana yang dikembangkan menggunakan Flutter.
 Jalankan aplikasi dengan perintah berikut:
 ```sh
 flutter run
+```
 
----
+##Video
+https://github.com/Zephyrr2/calculator/blob/main/assets/Calculator.mp4
